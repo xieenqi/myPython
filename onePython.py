@@ -29,3 +29,10 @@ print('幂:',2 ** 5)
 print('取整除:', 60 // 7)
 print('左移:', 2 << 2,'(2 << 2得到8。——2按比特表示为10)',)
 print('右移:', 11 >> 1,'(11 >> 1得到5。——11按比特表示为 1011，向右移动1比特后得到101，即十 进制的5。)',)
+
+
+length = 5
+breadth = 2
+area = length * breadth
+print ('Area is', area)
+print ('Perimeter is', 2 * (length + breadth))
