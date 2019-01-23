@@ -2,3 +2,4 @@
 .idea
 #后缀文件
 *.iml
+venv
