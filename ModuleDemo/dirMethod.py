@@ -20,3 +20,9 @@ print('number of animalsin the zoo is :',len(zoo))
 new_zoo=('monkey','dolphin',zoo)
 print('number of animalsin the new_zoo is:',len(new_zoo))
 print('all animalsion in new_zoo:',new_zoo)
+
+# 元组与打印语句  打印替代
+age = 22
+name = 'Swaroop'
+print ('%s is %d years old' % (name, age))
+print ('Why is %s playing with that python?' % name)
