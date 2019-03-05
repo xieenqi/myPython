@@ -57,3 +57,5 @@ print('第-2个item是：', shoplist[-2])
 # 切片列表
 print('第1至3项是:', shoplist[1:4])
 print('第3至最后项是:', shoplist[2:])
+
+#对象与引用
